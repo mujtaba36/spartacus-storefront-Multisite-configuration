@@ -16,14 +16,10 @@ Extract the contents to a folder of your choice.
 Install Dependencies
 Open a terminal in the project folder and run:
 
-bash
-Copy code
 npm install  
 Start the Server
 Run the following command to start the server:
 
-bash
-Copy code
 npm start  
 Access the Application
 
